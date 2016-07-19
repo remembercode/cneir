@@ -19,3 +19,7 @@ cneir website
 ### register `cneir` on [Github](https://github.com/remembercode/cneir.git)
 
 ### create this `Readme.md`
+
+### write down develop process
+
+### 
